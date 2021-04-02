@@ -1,18 +1,19 @@
 # Create a role for Role Based Access Control (`RBAC`)
 
+- In RBAC, an administrator grants permissions to roles, and not to individual users or groups.  
+
 - You can create roles in either of two ways
+  
   - Editing the manifest
-  - or, Using GUI
-
-- In RBAC, an administrator grants permissions to roles, and not to individual users or groups. 
-
+- or, Using GUI
+  
   
 
 # Using GUI
 
 - Open app registration and go to AppRoles. 
 
-  <img src="docs/images/image-20210402141440658.png" alt="image-20210402141440658" style="zoom:50%;" />
+  <img src="docs/images/create-role.png" alt="image-20210402141440658" style="zoom:50%;" />
 
 
 
@@ -48,3 +49,5 @@
   ```
   
   
+  
+  <img src="docs/images/edit-role-in-manifest.png" alt="image-20210402144800287" style="zoom:50%;" />
