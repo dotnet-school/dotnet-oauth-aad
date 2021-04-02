@@ -35,6 +35,16 @@ Sources:
   > Create a role that can be accesses by applicatoin only (we won't use user roles for now).
   >
   > We will assign access control to roles and then assign these roles to individual services.
+  >
+  > **allowedMemberTypes** : ["Application"]
+  >
+  > **description** : "Daemon apps in this role can consume the web api."
+  > **displayName** : "DaemonAppRole"
+  >
+  > **origin**: "Application"
+  >
+  > **value**: "DaemonAppRole"
+
 
 - ***[App registration for client](03-create-app-reg-client.md)***
 
