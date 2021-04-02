@@ -16,9 +16,12 @@ Sources:
 
 ### Summary
 
-- ***[Tenant](#create-tenant)***
+- ***[Choose a Tenant](00-tenant-info.md)***
 
   > We use the default organization for user account
+  >
+  > **Domain**: "nishantsingh87gmailcom.onmicrosoft.com",
+  > **TenantId**: "345cb91a-f138-4ce4-90e0-c3902a912866"
 
 - ***[App registration for server](01-create-app-reg.md)***
 
@@ -63,20 +66,17 @@ Sources:
   > After adding permission to DemoAuthServer role created earlier, click on Grant admin consent.
   >
   > The Azure admin has to explicitly approve this permission. i.e. app can only request a permission in outh token if admin has consented for it.
+  
+- ***[Add configuration in code for server](05-update-config-for-server.md)*** 
+
+  > Update app settings with azure config 
+  >
+  > **Instance**: "https://login.microsoftonline.com/",
+  >
+  > **ClientId**: "91af0621-857a-4cda-bf0e-76e9ad9ecb88",
+  > **Domain**: "nishantsingh87gmailcom.onmicrosoft.com",
+  > **TenantId**: "345cb91a-f138-4ce4-90e0-c3902a912866"
 
 
 
-<span name="create-tenant"></span>
-
-### Tenant
-
->  **Represents an organization.** Dedicated instance of Azure AD that an organization or app developer **receives at the beginning of a relationship with Microsoft**.
->
->  No need to create one. You already have a default one created when you signup on azure portal.
-
-
-
-
-
-<span name=app-reg></span>
 
