@@ -30,6 +30,12 @@ Sources:
   >
   > **Object ID** :6fabe4c3-e574-4bc4-9c20-5fdb39bd99ac
 
+- [***Create a role for server to use for Role Based Access Control (RBAC)***](./02-create-server-role.md)
+
+  > Create a role that can be accesses by applicatoin only (we won't use user roles for now).
+  >
+  > We will assign access control to roles and then assign these roles to individual services.
+
 - 
 
 
