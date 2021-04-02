@@ -46,6 +46,12 @@ Sources:
   >
   > **Object ID:** 9ad88898-3dcb-4f09-88a9-0217d168d93e
 
+- [***Setup Api Permissions in client***](./04-setup-api-permission-in-client.md)
+
+  > This allows client to request for Oauth token with role created earlier.
+  >
+  > The Azure admin has to explicitly approve this permission. i.e. app can only request a permission if admin allows it.
+
 
 
 <span name="create-tenant"></span>
