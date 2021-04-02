@@ -50,7 +50,9 @@ Sources:
 
   > This allows client to request for Oauth token with role created earlier.
   >
-  > The Azure admin has to explicitly approve this permission. i.e. app can only request a permission if admin allows it.
+  > After adding permission to DemoAuthServer role created earlier, click on Grant admin consent.
+  >
+  > The Azure admin has to explicitly approve this permission. i.e. app can only request a permission in outh token if admin has consented for it.
 
 
 
