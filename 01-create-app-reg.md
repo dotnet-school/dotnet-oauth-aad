@@ -1,4 +1,6 @@
-### App registration
+
+
+# App registration for Server
 
 - Choose a display name
 - Select supported account types (sign-in audience)
@@ -8,9 +10,12 @@
 
 
 
-<img src="docs/images/image-20210402135501206.png" alt="image-20210402135501206" style="zoom:50%;" />![image-20210402135524108](docs/images/create-server-appreg-form.png)
+# For to create app registration
+
+<img src="docs/images/create-server-appreg-form.png" alt="image-20210402135524108" style="zoom:50%;" />
 
 
 
-<img src="docs/images/created-auth-server-appreg.png" alt="image-20210402135501206" style="zoom:50%;" />![image-20210402135524108](docs/images/image-20210402135524108.png)
+# Details for created app registration
 
+<img src="docs/images/created-auth-server-appreg.png" alt="image-20210402135501206" style="zoom:50%;" />
