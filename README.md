@@ -32,6 +32,8 @@ Sources:
   > **Directory (tenant) ID**: 345cb91a-f138-4ce4-90e0-c3902a912866
   >
   > **Object ID** :6fabe4c3-e574-4bc4-9c20-5fdb39bd99ac
+  >
+  > **ApplicatoinID URI**: api://91af0621-857a-4cda-bf0e-76e9ad9ecb88
 
 - [***Create a role for server to use for Role Based Access Control (RBAC)***](./02-create-server-role.md)
 
@@ -77,6 +79,6 @@ Sources:
   > **Domain**: "nishantsingh87gmailcom.onmicrosoft.com",
   > **TenantId**: "345cb91a-f138-4ce4-90e0-c3902a912866"
 
-
+- ***[Add configuration in code for client service](06-update-config-for-clien-service.md)*** 
 
 
